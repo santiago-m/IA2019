@@ -1,0 +1,7 @@
+NPuzzle Problem.,size = 8
+
+Algorithm,Heuristic,Iterations,,Length_Min,Length_Max,Length_Mean,Length_Median,Length_Modes,,Time_Min,Time_Max,Time_Mean,Time_Median,Time_Modes,,Timed_Up,,Best_Result
+Greedy Best First Search,Manhattan,50,,18,144,69.44,64.0,"[42, 98]",,0.001,0.1958,0.051176,0.03605,"[0.0385, 0.0101, 0.0034]",,0,,"['RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN']"
+,Misplaced Tiles,50,,25,123,73.14,73.5,"[42, 98]",,0.0019,0.3245,0.104018,0.09095,"[0.0385, 0.0101, 0.0034]",,0,,"['DOWN', 'LEFT', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']"
+,Gaschnig,50,,18,140,73.48,70.0,"[42, 98]",,0.0023,0.4709,0.12632,0.0603,"[0.0385, 0.0101, 0.0034]",,0,,"['LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT']"
+,Max_Manhattan_Gaschnig,50,,13,136,66.22,60.0,"[42, 98]",,0.0006,0.1927,0.043674,0.0271,"[0.0385, 0.0101, 0.0034]",,0,,"['RIGHT', 'DOWN', 'DOWN', 'LEFT', 'LEFT', 'UP', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT']"

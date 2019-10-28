@@ -1,7 +1,0 @@
-NPuzzle Problem.,size = 8
-
-Algorithm,Heuristic,Iterations,,Length_Min,Length_Max,Length_Mean,Length_Median,Length_Modes,,Time_Min,Time_Max,Time_Mean,Time_Median,Time_Modes,,Timed_Up,,Best_Result
-Greedy Best First Search,Manhattan,50,,14,145,80.26,79.0,"-",,0.0008,0.2066,0.058556,0.037099999999999994,"-",,0,,"((1, 6, 3, 2, 0, 5, 4, 7, 8), ['UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN'])"
-,Misplaced Tiles,50,,-,-,-,-,"-",,-,-,-,-,"-",,50,,"[]"
-,Gaschnig,50,,-,-,-,-,"-",,-,-,-,-,"-",,50,,"[]"
-,Max_Manhattan_Gaschnig,50,,-,-,-,-,"-",,-,-,-,-,"-",,50,,"[]"

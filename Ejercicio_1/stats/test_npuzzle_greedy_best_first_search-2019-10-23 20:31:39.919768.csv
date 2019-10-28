@@ -1,7 +1,0 @@
-NPuzzle Problem.,size = 8
-
-Algorithm,Heuristic,Iterations,,Length_Min,Length_Max,Length_Mean,Length_Median,Length_Modes,,Time_Min,Time_Max,Time_Mean,Time_Median,Time_Modes,,Timed_Up,,Best_Result
-Greedy Best First Search,Manhattan,50,,14,133,69.7,67.0,"[50, 104]",,0.0007,0.1926,0.046114,0.028900000000000002,"[0.0126]",,0,,"((0, 5, 2, 1, 7, 6, 8, 3, 4), ['DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'DOWN'])"
-,Misplaced Tiles,50,,31,158,76.42,73.0,"[50, 104]",,0.0021,0.3055,0.096684,0.0853,"[0.0126]",,0,,"((2, 0, 6, 4, 7, 3, 8, 5, 1), ['RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT'])"
-,Gaschnig,50,,31,180,73.94,65.0,"[50, 104]",,0.0082,0.3889,0.134022,0.06835,"[0.0126]",,0,,"((1, 2, 5, 4, 3, 0, 8, 7, 6), ['DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT'])"
-,Max_Manhattan_Gaschnig,50,,14,140,74.46,62.0,"[50, 104]",,0.0011,0.1873,0.057035999999999996,0.0358,"[0.0126]",,0,,"((0, 1, 6, 4, 2, 5, 7, 3, 8), ['RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN'])"
